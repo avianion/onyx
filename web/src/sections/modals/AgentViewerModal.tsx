@@ -410,6 +410,7 @@ export default function AgentViewerModal({ agent }: AgentViewerModalProps) {
                         sizePreset="main-ui"
                         variant="body"
                         prominence="muted"
+                        widthVariant="full"
                       />
                     </Interactive.Container>
                   </Interactive.Base>
